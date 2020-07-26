@@ -1,1 +1,1 @@
-# myp34virtual-pet
+# project-34
